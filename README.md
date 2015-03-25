@@ -1,7 +1,7 @@
 
 # Clojure Bots
 
-![clj-bots-logo](https://raw.githubusercontent.com/scgilardi/slingshot/master/imgs/clj-bots-logo.png)
+![clj-bots-logo](https://github.com/clj-bots/home/blob/master/imgs/clj-bots-logo.png?raw=true)
 
 Welcome!
 Clojure Bots is a group dedicated to bringing Clojure to the world of physical computing.

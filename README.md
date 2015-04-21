@@ -1,7 +1,7 @@
 
 # Clojure Bots
 
-![clj-bots-logo](https://github.com/clj-bots/home/blob/master/imgs/clj-bots-logo.png?raw=true)
+<img src="https://github.com/clj-bots/home/blob/master/imgs/clj-bots-logo.png?raw=true" style="max-width: 200px; max-height: 200px;"/>
 
 Welcome!
 Clojure Bots is a group dedicated to bringing Clojure to the world of physical computing.
@@ -26,7 +26,7 @@ This means that you can take a program written for a Raspberry Pi, and with noth
 This works via a set of protocols which `pin-ctrl` implementations must satisfy.
 On loading, these implementations register themselves through the `pin-ctrl` API, thereby becoming available to any programmer who wishes to use them.
 
-To learn more about the pin-ctrl API please visit the [Clojure Bots wiki](https://github.com/clj-bots/clj-bots-home/wiki).
+To learn more about the pin-ctrl API please visit the [Clojure Bots wiki](https://github.com/clj-bots/home/wiki).
 
 ## Other projects on the horizon
 
